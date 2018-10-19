@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <title>My company</title>
@@ -52,7 +52,7 @@
     <h4>New downloads</h4>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ul sollicitudin posuere leo, et egestas leo volutpat ac. Sed erat purus, consequat ness mollis ut, ultrices non sapien.</p>
       <form>
-        <input type="file" name="download" value="Download now">
+        <input type="file" name="download">
       </form>
   </section>
   
@@ -62,7 +62,7 @@
       <input type="text" name="name" placeholder="Name">
       <input type="email" name="email" placeholder="Email">
       <textarea placeholder="Comments" name="Comments"></textarea>
-      <input type="submit" value="Send"></section>
+      <input type="submit" value="Send">
     </form>
   </section>
   <section>
